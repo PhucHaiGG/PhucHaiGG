@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Huynh Phuc Hai from Viet Nam
-- 👀 I’m interested in Computer Technology, Electronic, AI and Machine Learning
+- 👀 I’m interested in Computing Technology, Electronic, AI and Machine Learning
 - 🌱 I’m currently learning in Ho Chi Minh University of Technology
 - 💞️ I’m looking to collaborate on AI and Machine Learning Engineer  
 - 📫 How to reach me hphtkotw@gmail.com
